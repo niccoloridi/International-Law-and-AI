@@ -1,6 +1,9 @@
 # Resources folder (API keys, reference files, assets)
 Resources/
 
+# Syllabus
+*.docx
+
 # macOS
 .DS_Store
 ._*
