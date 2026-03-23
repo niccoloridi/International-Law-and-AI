@@ -1,5 +1,5 @@
-# API keys and secrets
-Resources/gemini_api_key.txt
+# Resources folder (API keys, reference files, assets)
+Resources/
 
 # macOS
 .DS_Store
