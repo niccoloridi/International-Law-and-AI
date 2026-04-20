@@ -26,3 +26,14 @@ venv/
 
 # Internal tooling (helper scripts, acceptance runners)
 scripts/
+
+# Artefacts produced when running notebooks locally (never committed)
+yolov8n.pt
+/*.png
+/*.mp4
+/*.jpg
+/*.jpeg
+/round1_distribution.png
+/legal_similarity_heatmap.png
+/legal_corpus_embedding_space.png
+/judges_embedding_space.png
